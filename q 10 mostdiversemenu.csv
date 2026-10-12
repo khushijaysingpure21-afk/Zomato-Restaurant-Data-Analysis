@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,unique_cuisine_labels,unique_dishes,diversity_score
+223089,"Food Fusion",1,976,977
+150713,"Crazy Bite",1,660,661
+344312,"Indian Curry House",1,593,594
+80701,"Chhappan Bhog",1,569,570
+540901,"Cactus Club",1,525,526
+134889,"The Grand Fortune",1,522,523
+475087,"Bhole's Rock&Rolls",1,505,506
+209749,"New milkbar bakery",1,504,505
+344318,"Shakes Pio",1,503,504
+112399,"Food On Call",1,498,499

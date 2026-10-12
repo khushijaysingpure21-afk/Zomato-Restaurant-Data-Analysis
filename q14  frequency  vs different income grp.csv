@@ -1,0 +1,6 @@
+income_group,total_users,total_orders,orders_per_user,average_order_value
+"More than 50000",12397,23934,1.93,6767.58
+"No Income",37386,71620,1.92,6612.30
+"25001 to 50000",13795,26410,1.91,6614.75
+"Below Rs.10000",5016,9596,1.91,7129.50
+"10001 to 25000",8990,17110,1.90,6306.63

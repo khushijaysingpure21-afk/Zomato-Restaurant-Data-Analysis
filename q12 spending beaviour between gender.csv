@@ -1,0 +1,9 @@
+day_of_week,day_number,total_orders,total_sales
+NULL,NULL,200000,0.00
+Friday,6,35293,264163551.00
+Thursday,5,29598,188636824.00
+Tuesday,3,29486,177843390.00
+Wednesday,4,29021,187995290.00
+Monday,2,26345,166225917.00
+Saturday,7,408,1378694.00
+Sunday,1,130,321352.00
